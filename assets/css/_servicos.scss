@@ -1,0 +1,14 @@
+.position-relative {
+    // position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.foto {
+    max-width: 200px;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    transform: translateX(-30px);
+    
+}

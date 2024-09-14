@@ -1,0 +1,21 @@
+{
+  "name": "exerciciologin",
+  "version": "1.0.0",
+  "description": "exercicio de web design com SCSS, JS e HTML",
+  "main": "index.js",
+  "scripts": {
+    "compilar": "sass --watch assets/css/styles.scss:assets/css/styles.css"
+  },
+  "keywords": [
+    "exericio",
+    "html",
+    "scss"
+  ],
+  "author": "Fausto Toloi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sass": "^1.77.8"
+  }
+}

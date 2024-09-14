@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif; /* fonte sem serifa */
+  font-size: 16px; /* tamanho da fonte, o tamnho padrão já é 16px */
+  background-color: $cor-primaria;
+}
+.container {
+  max-width: 600px; /* Largura máxima do container */
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 50px;
+  border-radius: 25px;
+  top: 25px;
+}
