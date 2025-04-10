@@ -1,7 +1,0 @@
-<footer class="container">
-    <div>
-        <p>Todos os direitos reservados à euzinha :3</p>
-    </div>
-</footer>
-</body>
-</html>
