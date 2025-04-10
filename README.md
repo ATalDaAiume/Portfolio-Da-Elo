@@ -27,9 +27,11 @@ Este é meu portfólio pessoal, criado para apresentar projetos, habilidades e e
 - Integração com GitHub API para listar repositórios automaticamente
 - Animações suaves com JavaScript
 
+---
+
 ### ✨ Conecte-se comigo
 
-- [🔗 Meu GitHub](https://github.com/ATalDaAiume)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ATalDaAiume)](https://github.com/ATalDaAiume)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
