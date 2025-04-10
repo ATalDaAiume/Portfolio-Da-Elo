@@ -27,7 +27,7 @@ Este é meu portfólio pessoal, criado para apresentar projetos, habilidades e e
 - Integração com GitHub API para listar repositórios automaticamente
 - Animações suaves com JavaScript
 
-### ✨ Conecte-se comigo
+## ✨ Conecte-se comigo
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ATalDaAiume)](https://github.com/ATalDaAiume)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
