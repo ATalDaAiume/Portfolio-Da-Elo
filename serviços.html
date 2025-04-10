@@ -1,58 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
+    <meta charset="UTF-8">
     <title>Serviços | Eloize Aiume</title>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
 <body>
     <div class="container">
-        <header>
-            <div class="text-center">
-                <img src="assets/images/eu.png" class="img-fluid logo">
-                <div class="text-center">Eloize Aiume ❤</div>
-                <ul class="menu">
-                    <li><a href="index.html">Inicial</a></li>
-                    <li><a href="sobre.html">Sobre</a></li>
-                    <li><a href="serviços.html">Serviços</a></li>
-                    <li><a href="contato.html" >Contato</a></li>
-                </ul>
-            </div>
-        </header>
+        <div id="header"></div>
+
         <main>
             <div>
-                <h1 id="clique_exercicio">Contato</h1>
-                <p>Fale com a nossa empresa</p>
-                <div>
-                    <form action="" method="get" id="form_exercicio">
-                        <div>
-                            <label for="form_nome">Digite seu nome</label>
-                            <input type="text" id="form_nome" name="nome">
-                        </div>
-                        <div>
-                            <label for="form_email">Digite seu e-mail</label>
-                            <input type="text" id="form_email" name="email">
-                        </div>
-                        <div>
-                            <label for="form_mensagem">Digite sua mensagem</label>
-                            <textarea id="form_mensagem" placeholder="Digite a mensagem completa" name="mensagem"></textarea>
-                        </div>
-                        <button type="submit" id="botao">Enviar via botão</button>
-                        <input type="submit" value="Enviar via atributo do input">
-                    </form>
-                </div>
+                <h1>Serviços</h1>
+                <p>Aqui será o local onde colocarei links de projetos feitos, apresentando-os junto ao GitHub.</p>
+                <img src="assets/images/abraço.gif" class="img-fluid" alt="Imagem de abraço fofinha">
             </div>
         </main>
-        <footer>
-            <p class="text-center">Todos os direitos reservados à euzinha :3</p>
-        </footer>
+
+        <div id="footer"></div>
     </div>
 
+    <script>
+        fetch('header.html')
+            .then(res => res.text())
+            .then(data => document.getElementById('header').innerHTML = data);
 
-    <script src="assets/js/scripts.js"></script>
+        fetch('footer.html')
+            .then(res => res.text())
+            .then(data => document.getElementById('footer').innerHTML = data);
+    </script>
 </body>
 
 </html>
