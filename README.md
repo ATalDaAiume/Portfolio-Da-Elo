@@ -27,8 +27,6 @@ Este é meu portfólio pessoal, criado para apresentar projetos, habilidades e e
 - Integração com GitHub API para listar repositórios automaticamente
 - Animações suaves com JavaScript
 
----
-
 ### ✨ Conecte-se comigo
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ATalDaAiume)](https://github.com/ATalDaAiume)
